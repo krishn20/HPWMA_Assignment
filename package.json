@@ -1,0 +1,14 @@
+{
+  "name": "krishn_assignment_hpwma",
+  "version": "1.0.0",
+  "description": "Hpwma Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Krishn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
